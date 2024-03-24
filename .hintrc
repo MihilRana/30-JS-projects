@@ -29,6 +29,7 @@
           "user-select"
         ]
       }
-    ]
+    ],
+    "meta-viewport": "off"
   }
 }
